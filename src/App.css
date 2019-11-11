@@ -20,3 +20,18 @@
 .App-link {
   color: #09d3ac;
 }
+.Navigation {
+ background: red;
+ height: 100px;
+ padding: 20px;
+  margin: 10px;
+  display: block;
+}
+.NavLink{
+  width: 80px;
+  height: 30px;
+  display: block;
+}
+.productGrid {
+  background: blue;
+}
